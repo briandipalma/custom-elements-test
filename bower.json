@@ -1,0 +1,32 @@
+{
+  "name": "custom-elements-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/briandipalma/custom-elements-test",
+  "authors": [
+    "Brian Di Palma <offler@gmail.com>"
+  ],
+  "description": "Custom elements test",
+  "main": "ToggleButton.js",
+  "keywords": [
+    "Custom",
+    "elements"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "CustomElements": "git://github.com/Polymer/CustomElements#master"
+  },
+  "resolutions": {
+    "CustomElements": "master",
+    "MutationObservers": "master",
+    "WeakMap": "master",
+    "tools": "master"
+  }
+}
