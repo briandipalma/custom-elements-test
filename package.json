@@ -19,13 +19,13 @@
   "bugs": {
     "url": "https://github.com/briandipalma/custom-elements-test/issues"
   },
-  "dependencies": {
-    "tools": "git://github.com/briandipalma/tools#master",
-    "WeakMap": "git://github.com/Polymer/WeakMap#master",
-    "mutationobservers": "0.0.0",
-    "customelements": "0.0.1"
-  },
   "devDependencies": {
     "node-static": "~0.7.2"
+  },
+  "dependencies": {
+    "polymer-tools": "0.0.0",
+    "polymer-weakmap": "0.0.0",
+    "mutationobservers": "0.0.1",
+    "customelements": "0.0.2"
   }
 }
