@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/briandipalma/custom-elements-test.git"
+    "url": "git://github.com/briandipalma/custom-elements-test.git"
   },
   "keywords": [
     "Custom",
